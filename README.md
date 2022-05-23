@@ -136,6 +136,3 @@ You can connect `MySQL Workbench` or any other DB GUI to this version of the dat
 - Port: 3307
 - Password: password
 ```
-***
-
-#### Forked and edited by Adem Aldemir
